@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9DDC6F9122974ADC00594003 /* removeElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F9022974ADC00594003 /* removeElement.cpp */; };
+		9DDC6F982297AC2200594003 /* stringNeedleHaystack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		9DDC6F8D22974ADC00594003 /* MyLeet */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyLeet; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DDC6F9022974ADC00594003 /* removeElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = removeElement.cpp; sourceTree = "<group>"; };
+		9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stringNeedleHaystack.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				9DDC6F9022974ADC00594003 /* removeElement.cpp */,
+				9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */,
 			);
 			path = MyLeet;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DDC6F9122974ADC00594003 /* removeElement.cpp in Sources */,
+				9DDC6F982297AC2200594003 /* stringNeedleHaystack.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
