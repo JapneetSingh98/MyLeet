@@ -10,6 +10,7 @@
 		9DDC6F9122974ADC00594003 /* removeElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F9022974ADC00594003 /* removeElement.cpp */; };
 		9DDC6F982297AC2200594003 /* stringNeedleHaystack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */; };
 		9DDC6F9A2297ADF200594003 /* searchInsert.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F992297ADF200594003 /* searchInsert.cpp */; };
+		9DDC6F9C2298CA6C00594003 /* lengthOfLastString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F9B2298CA6C00594003 /* lengthOfLastString.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		9DDC6F9022974ADC00594003 /* removeElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = removeElement.cpp; sourceTree = "<group>"; };
 		9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stringNeedleHaystack.cpp; sourceTree = "<group>"; };
 		9DDC6F992297ADF200594003 /* searchInsert.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = searchInsert.cpp; sourceTree = "<group>"; };
+		9DDC6F9B2298CA6C00594003 /* lengthOfLastString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lengthOfLastString.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				9DDC6F9022974ADC00594003 /* removeElement.cpp */,
 				9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */,
 				9DDC6F992297ADF200594003 /* searchInsert.cpp */,
+				9DDC6F9B2298CA6C00594003 /* lengthOfLastString.cpp */,
 			);
 			path = MyLeet;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DDC6F9A2297ADF200594003 /* searchInsert.cpp in Sources */,
+				9DDC6F9C2298CA6C00594003 /* lengthOfLastString.cpp in Sources */,
 				9DDC6F9122974ADC00594003 /* removeElement.cpp in Sources */,
 				9DDC6F982297AC2200594003 /* stringNeedleHaystack.cpp in Sources */,
 			);
