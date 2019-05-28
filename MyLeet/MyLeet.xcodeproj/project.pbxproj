@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D336BB1229CB26500C50BC5 /* sqrRoot.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9D336BB0229CB26500C50BC5 /* sqrRoot.cpp */; };
 		9DDC6F9122974ADC00594003 /* removeElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F9022974ADC00594003 /* removeElement.cpp */; };
 		9DDC6F982297AC2200594003 /* stringNeedleHaystack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */; };
 		9DDC6F9A2297ADF200594003 /* searchInsert.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9DDC6F992297ADF200594003 /* searchInsert.cpp */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9D336BB0229CB26500C50BC5 /* sqrRoot.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sqrRoot.cpp; sourceTree = "<group>"; };
 		9DDC6F8D22974ADC00594003 /* MyLeet */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyLeet; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DDC6F9022974ADC00594003 /* removeElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = removeElement.cpp; sourceTree = "<group>"; };
 		9DDC6F972297AC2200594003 /* stringNeedleHaystack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stringNeedleHaystack.cpp; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				9DDC6F992297ADF200594003 /* searchInsert.cpp */,
 				9DDC6F9B2298CA6C00594003 /* lengthOfLastString.cpp */,
 				9DDC6F9D22991D5100594003 /* plusOne.cpp */,
+				9D336BB0229CB26500C50BC5 /* sqrRoot.cpp */,
 			);
 			path = MyLeet;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D336BB1229CB26500C50BC5 /* sqrRoot.cpp in Sources */,
 				9DDC6F9A2297ADF200594003 /* searchInsert.cpp in Sources */,
 				9DDC6F9C2298CA6C00594003 /* lengthOfLastString.cpp in Sources */,
 				9DDC6F9122974ADC00594003 /* removeElement.cpp in Sources */,
